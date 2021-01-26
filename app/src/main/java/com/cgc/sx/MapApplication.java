@@ -1,9 +1,11 @@
 package com.cgc.sx;
 
 import android.app.Application;
+import android.util.Log;
 
 import com.baidu.mapapi.CoordType;
 import com.baidu.mapapi.SDKInitializer;
+import com.baidu.mapapi.map.MapView;
 
 public class MapApplication extends Application {
     @Override
