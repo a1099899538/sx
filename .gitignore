@@ -14,3 +14,7 @@
 .cxx
 local.properties
 /**/*.so
+/**/*gradlew*
+/**/*gradle*
+/.idea
+/gradle
